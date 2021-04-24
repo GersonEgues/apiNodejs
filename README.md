@@ -23,4 +23,4 @@
 
 -- npm init -y
 
--- npm i express pg  //instalar express
+-- npm i express pg
